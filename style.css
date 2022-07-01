@@ -1,0 +1,26 @@
+h1 {
+    color: rgb(126, 171, 215);
+    text-align: center;
+}
+
+body {
+    background-image: linear-gradient(rgb(23, 25, 76), rgb(123, 121, 183));
+  }
+
+body {
+    display: block;
+}
+
+p {
+    color: rgb(126, 171, 215);
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+}
+
+li {
+    text-align: center;
+}
+
