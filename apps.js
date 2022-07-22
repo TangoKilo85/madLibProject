@@ -17,4 +17,6 @@ function createParagraph() {
     console.log(paragraph);
 
     document.getElementById("answer").innerHTML = paragraph;
+    document.getElementById('answer').style.fontSize = '25px';
+    document.getElementById('answer').style.color = "#ffffff";
 }
